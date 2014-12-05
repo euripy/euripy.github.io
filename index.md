@@ -1,11 +1,13 @@
 # 으으리 리버싱 파으리썬 웹해으킹
 
+<img src="images/logo.jpg" width=500 />
+
 ## Season1 Pictures
 
-<img src="images/season1/8week_01.jpg" />
+<img src="images/season1/8week_01.jpg" width=500 />
 
 
-<img src="images/season1/8week_02.jpg" />
+<img src="images/season1/8week_02.jpg" width=500 />
 
 
 ## Season2 Start
