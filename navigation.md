@@ -68,9 +68,6 @@
 
   * [강의 시간표](pages/calendar.md)
 
-  
-[Logo](pages/logo.md)
-
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
