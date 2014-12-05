@@ -29,8 +29,7 @@
   * [파으리썬 3강 - 포렌식 수사](python/season1/03.md)
   * [파으리썬 4강 - 네트워크 트래픽 분석](python/season1/04.md)
   - - - -
-  * # Season2
-  * [파이썬 기초 소개](python/season2/00.md)
+  * # Season2(준비중)
 
 [Reversing]()
 
@@ -42,8 +41,7 @@
   * [으으리 리버싱 3강 - ](reversing/season1/03.md)
   * [으으리 리버싱 4강 - ](reversing/season1/04.md)
   - - - -
-  * # Season2
-  * [리버싱 기초 소개](reversion/season2/00.md)
+  * # Season2(준비중)
 
 [WebHacking]()
 
