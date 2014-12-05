@@ -1,8 +1,9 @@
 # 으으리 리버싱 파으리썬 웹해으킹
 
-## Season1 Feedback
+## Season1 Pictures
 
-![Season1 Feedback](images/feedback/season1_feedback.png)
+<img src="images/season1/8week_01.jpg" />
+<img src="images/season1/8week_02.jpg" />
 
 ## Season2 Start
 
@@ -32,3 +33,7 @@
 - 참석하시지 않을 경우에는 환불이 불가함을 알려 드립니다.
 
 ### [향후 일정](pages/calendar.md)
+
+## Season1 Feedback
+
+![Season1 Feedback](images/feedback/season1_feedback.png)
