@@ -3,7 +3,10 @@
 ## Season1 Pictures
 
 <img src="images/season1/8week_01.jpg" />
+
+
 <img src="images/season1/8week_02.jpg" />
+
 
 ## Season2 Start
 
