@@ -2,7 +2,7 @@
 
 ## Season1 Feedback
 
-![Season1 Feedback](imgages/season1-feedback.png)
+![Season1 Feedback](imgages/season1_feedback.png)
 
 ## Season2 Start
 
