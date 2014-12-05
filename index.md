@@ -1,6 +1,6 @@
 # 으으리 리버싱 파으리썬 웹해으킹
 
-<img src="images/logo.jpg" width=500 />
+<!-- <img src="images/logo.jpg" width=500 /> -->
 
 ## Season1 Pictures
 
