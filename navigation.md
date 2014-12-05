@@ -39,8 +39,6 @@
   * [으으리 리버싱 개발툴 설치 방법](reversing/season1/001.md)
   * [으으리 리버싱 1강 - Win32 API1](reversing/season1/01.md)
   * [으으리 리버싱 2강 - Win32 API2](reversing/season1/02.md)
-  * [으으리 리버싱 3강 - ](reversing/season1/03.md)
-  * [으으리 리버싱 4강 - ](reversing/season1/04.md)
   - - - -
   * # Season2
   * [리버싱 기초 소개](reversing/season2/00.md)
