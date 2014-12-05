@@ -15,9 +15,9 @@
 - 토요일은 리버싱 기초
 - 일요일은 파이썬 기초
 
-### 리버싱 소개(reversion/season2/00.md)
+### [리버싱 소개](reversion/season2/00.md)
 
-### 파이썬 소개(python/season2/00.md)
+### [파이썬 소개](python/season2/00.md)
 
 ## 등록하는 곳
 

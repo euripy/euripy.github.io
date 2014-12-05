@@ -43,7 +43,7 @@
   * [으으리 리버싱 4강 - ](reversing/season1/04.md)
   - - - -
   * # Season2
-  * [리버싱 기초 소개](reversion/season2/00.md)
+  * [리버싱 기초 소개](reversing/season2/00.md)
 
 [WebHacking]()
 
