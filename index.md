@@ -1,29 +1,34 @@
-# It works! ;-)
+# 으으리 리버싱 파으리썬 웹해으킹
 
+## Season1 Feedback
 
-## Section 1
+![Season1 Feedback](imgages/season1-feedback.png)
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+## Season2 Start
 
+- 기간: 2014.12.6(토)(리버싱), 2014.12.7(일)(파이썬)
+- 시간: 10:00 ~ 18:00
+- 장소: 토즈 선릉점
+- 분야: 리버싱, 파이썬
+- 인원: 약 25명
+- 비용: 3만원(참석하면 환급)
+- 토요일은 리버싱 기초
+- 일요일은 파이썬 기초
 
-## Section 2
+### 리버싱 소개(reversion/season2/00.md)
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+### 파이썬 소개(python/season2/00.md)
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+## 등록하는 곳
 
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'euripython';
-    var disqus_identifier = 'index';
-    var disqus_title = 'index title';
-    var disqus_url = 'http://re4lfl0w.github.io/#!pages/index.md';
+- 각각 등록하셔야 합니다.
+- [리버싱 등록](http://onoffmix.com/event/37844)
+- [파이썬 등록](http://onoffmix.com/event/37846)
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
+## 비용
+
+- 3만원(강의 참석하면 환급): 참석하면 무료
+- 몇회 운영을 해보았는데 개인적인 사정(?)이 많아서 실제 참여하시는 분들은 반절 밖에 되지 않아 취하는 조치입니다. 최소한의 서로에 대한 약속으로 생각해 주시면 되겠습니다.
+- 참석하시지 않을 경우에는 환불이 불가함을 알려 드립니다.
+
+### [향후 일정](pages/calendar.md)
