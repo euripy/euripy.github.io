@@ -1,6 +1,8 @@
 # Python Cookbook - Third Edition
 
-![Python cookbook](http://image.yes24.com/goods/11949491/L)
+![Python cookbook](http://akamaicovers.oreilly.com/images/0636920027072/lrg.jpg)
+
+
 - 데이비드 비즐리,브라이언 K. 존스 공저/정승원 역 | 인피니티북스 | 690쪽
 - [책 소개](http://www.yes24.com/24/goods/11949491?scode=032&OzSrank=1)
 - [Source Code](https://github.com/dabeaz/python-cookbook)

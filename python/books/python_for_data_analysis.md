@@ -1,6 +1,6 @@
 #Python for Data Analysis 파이썬 라이브러리를 활용한 데이터 분석
 
-[<img src="http://image.yes24.com/goods/11043328/L" width="300px" />](http://www.yes24.com/24/goods/11043328?scode=029)
+[<img src="http://akamaicovers.oreilly.com/images/0636920023784/lrg.jpg" width="300px" />](http://www.yes24.com/24/goods/11043328?scode=029)
 
 
 - 웨스 맥키니(Wes Mckinney) 지음 | 김영근 역 | 번역서 | 2013년 10월 | 한빛미디어(주) | 592
