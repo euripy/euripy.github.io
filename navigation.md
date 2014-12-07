@@ -33,10 +33,10 @@
   * [파이썬 기초 소개](python/season2/00.md)
   - - - -
   * # 파이썬 자료들
-  * # [Python For Data Analysis](python/books/python_for_data_analysis.md)
-  * # [Python for informatics exploring information](python/books/python_for_informattics_exploring_information.md)
-  * # [Python Cookbook](python/books/python_cookbook.md)
-  * # [Natural Language Processing With You](python/books/natural_language_processing_with_you.md)
+  * [Python For Data Analysis](python/books/python_for_data_analysis.md)
+  * [Python for informatics exploring information](python/books/python_for_informattics_exploring_information.md)
+  * [Python Cookbook](python/books/python_cookbook.md)
+  * [Natural Language Processing With You](python/books/natural_language_processing_with_you.md)
   
 
 [Reversing]()
