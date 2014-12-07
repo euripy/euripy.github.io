@@ -1,6 +1,8 @@
 # Natural Language Processing With Python
 
 ![Natural Language Processing With Python](http://ecx.images-amazon.com/images/I/51j6JCrBd-L.jpg)
+
+
 - Steven Bird by Author | O'REILLY | 504쪽
 - [책 소개](http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495/ref=sr_1_1?ie=UTF8&qid=1416154168&sr=8-1&keywords=nltk)
 - Source Code: nltk 설치 후 nltk.download() 하면 다운로드 받을 수 있음
