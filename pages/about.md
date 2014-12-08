@@ -11,4 +11,5 @@
 
 ## 강의 요청
 
-- 강의 요청은 euripython at gmail.com 으로 연락 주시기 바랍니다.
+- 강의 요청시 이 [요청서](https://docs.google.com/forms/d/1Gd_ZtcVvpTWU1kQxSiTjrDkCk-oDinFi1VuT6lijDag/edit)을 작성해 주시면 빠른 시간 내에 연락 드리겠습니다.
+- 다른 문의 사항은 euripython at gmail.com 으로 연락 주시기 바랍니다.
