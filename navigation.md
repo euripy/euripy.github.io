@@ -73,6 +73,10 @@
 
   * [강의 시간표](pages/calendar.md)
 
+[epilogue]()
+
+  * [Season2](epilogue/season_02.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
