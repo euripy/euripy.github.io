@@ -9,5 +9,6 @@
 
 ## Season2
 
-- 기간: 2014.12.7 + @
+- 기간: 2014.12.7 ~
 - [온오프믹스 :: 리버싱 - 으으리 리버싱 파으리썬 웹해으킹 Season2](http://onoffmix.com/event/37844)
+- [온오프믹스 :: 파이썬 - 으으리 리버싱 파으리썬 웹해으킹 Season2](http://onoffmix.com/event/38548)
