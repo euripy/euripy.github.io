@@ -17,6 +17,7 @@
 - 장소: [토즈 선릉점](http://www.toz.co.kr/branch/main/index.htm?id=12)
 - 인원: 약 25명
 - 비용: 2만원(파이썬), 참석하면 환급(무료)
+- 내용: 파이썬 기초
 
 ### [파이썬 소개](python/season2/00.md)
 
