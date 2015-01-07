@@ -50,7 +50,10 @@
   * # Season2
   * [리버싱 기초 소개](reversing/season2/00.md)
   * [1강 - 리버싱 대상과 배경지식](reversing/season2/01.md)
-
+  - - - -
+  * # Season3
+  * [리버싱 중급 실습](reversing/season3/00.md)
+  
 [WebHacking]()
 
   * #Season1
