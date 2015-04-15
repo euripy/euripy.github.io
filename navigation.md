@@ -53,6 +53,8 @@
   - - - -
   * # Season3
   * [리버싱 중급 실습](reversing/season3/00.md)
+  * # Season4
+  * [리버싱 중급 실습](reversing/season4/00.md)
   
 [WebHacking]()
 
